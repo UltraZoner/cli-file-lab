@@ -1,2 +1,2 @@
-This is my intial file
+This is my original web file.
 Added these words directly from GitHub web.
